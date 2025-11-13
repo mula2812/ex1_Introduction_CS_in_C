@@ -20,7 +20,7 @@ int main()
         print “1” if its integer representation is odd. */
 
     // 2's complement and other representations
-    printf("\n2’s Complement to Other Representations:\n");
+    printf("\n2's Complement to Other Representations:\n");
     /*. Scan a negative integer. [2’s complement].
         Print its value in 1’s complement.
         Print its value as unsigned. */
