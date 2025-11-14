@@ -34,7 +34,7 @@ int main()
     
 
     // 2's complement and other representations
-    printf("\n2’s complement to other representations:\n");
+    printf("\n2's complement to other representations:\n");
     /*. Scan a negative integer. [2’s complement].
         Print its value in 1’s complement.
         Print its value as unsigned. */
